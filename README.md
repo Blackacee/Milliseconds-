@@ -1,2 +1,4 @@
 # Milliseconds-
-Getting the elapsed time in milliseconds since 1/1/1970
+
+//get milliseconds using static method now of Date
+console.log(Date.now());
